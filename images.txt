@@ -4,3 +4,4 @@ opengrok/docker
 --platform=linux/arm64 xiaoyaliu/alist
 xhofe/alist:latest
 emby/embyserver_arm64v8:latest
+nginx
