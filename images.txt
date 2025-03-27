@@ -3,6 +3,5 @@ opengrok/docker
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
 xhofe/alist:latest
-emby/embyserver_arm64v8:latest
 nginx
 emby/embyserver:4.9.0.42
