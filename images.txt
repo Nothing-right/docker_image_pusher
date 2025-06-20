@@ -5,3 +5,4 @@ opengrok/docker
 xhofe/alist:latest
 nginx
 emby/embyserver:4.9.0.42
+Ubuntu
